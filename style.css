@@ -1,0 +1,32 @@
+#heding{
+    margin: -8px;
+    background-color: rgb(255, 230, 0);
+    padding: 10px;
+    border-radius: 10px;
+}
+
+
+
+canvas{
+    border-top-style: dotted;
+    border-right-style: solid;
+    border-bottom-style: dotted;
+    border-left-style: solid;
+    margin-top: 40px;
+}
+
+
+
+.heading{
+    background-color: brown;
+    width: fit-content;
+    padding: 5px;
+    border-radius: 10px;
+    color: rgb(255, 255, 255);
+}
+
+
+body{
+    background-position: center;
+    background-size: cover;
+}
